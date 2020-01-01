@@ -7,6 +7,10 @@
 
 - [Books](#books)
 - [Courses](#courses)
+- - [Concepts](#concepts)
+- - [Tools](#tools)
+- [Blogs & Websites](#blogs)
+- [Other awesome stuff](#others)
 
 
 ## Books
@@ -20,13 +24,26 @@ Awesome books on Performance Testing
 
 ## Courses
 
-### Performance Testing Concepts
+### Concepts
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Performance Testing Foundations, LinkedIn Learning, 2019, By Dave Westerveld](https://www.linkedin.com/learning/performance-testing-foundations)
+- [Web Application Performance and Scalability Testing, Pluralsight, 2011, By Steve Smith](https://www.pluralsight.com/courses/web-perf)
+- 
 
-### JMeter
+### Tools
 
+- [JMeter: Performance and Load Testing, LinkedIn Learning, 2019, By Michael Smith](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
+- [JMeter: Getting Started, Pluralsight, 2019, By Esteban Herrera](https://www.pluralsight.com/courses/jmeter-getting-started)
+- [JMeter Academy, Free Courses and Tutorials from Blazemeter](https://www.blazemeter.com/jmeter-tutorial/)
+- [Tools and Techniques for Performance and Load Testing By Amber Race](https://testautomationu.applitools.com/performance-and-load-testing/)
+
+## Blogs
+
+- [PerfTestPlus - Scott Barber](http://www.perftestplus.com/)
+
+## Others
+
+- [MoS 30 Days of Performance Testing](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-performance-testing)
 
 
 ## Contribute
