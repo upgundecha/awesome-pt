@@ -11,6 +11,7 @@
 - - [Tools](#tools)
 - [Blogs & Websites](#blogs)
 - [Other awesome stuff](#others)
+- [Tools](#tools)
 
 
 ## Books
@@ -40,10 +41,17 @@ Awesome books on Performance Testing
 ## Blogs
 
 - [PerfTestPlus - Scott Barber](http://www.perftestplus.com/)
+- [Blazemeter Blog](https://www.blazemeter.com/blog/)
 
 ## Others
 
 - [MoS 30 Days of Performance Testing](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-performance-testing)
+
+## Tools
+
+- [Apache JMeter](https://jmeter.apache.org)
+- [Gatling](https://gatling.io/)
+- [Microfocus LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
 
 
 ## Contribute
