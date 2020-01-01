@@ -28,7 +28,7 @@ Awesome books on Performance Testing
 
 - [Performance Testing Foundations, LinkedIn Learning, 2019, By Dave Westerveld](https://www.linkedin.com/learning/performance-testing-foundations)
 - [Web Application Performance and Scalability Testing, Pluralsight, 2011, By Steve Smith](https://www.pluralsight.com/courses/web-perf)
-- 
+
 
 ### Tools
 
