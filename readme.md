@@ -46,6 +46,7 @@ Awesome books on Performance Testing
 ## Others
 
 - [MoS 30 Days of Performance Testing](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-performance-testing)
+- [Get performance requirements right - think like a user](http://www.perftestplus.com/resources/requirements_with_compuware.pdf)
 
 ## Tools
 
