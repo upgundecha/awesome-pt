@@ -12,7 +12,7 @@
 - [Blogs & Websites](#blogs)
 - [Other awesome stuff](#others)
 - [Tools](#tools)
-
+- [Vidoes](#vidoes)
 
 ## Books
 
@@ -55,6 +55,9 @@ Awesome books on Performance Testing
 - [Gatling](https://gatling.io/)
 - [Microfocus LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
 
+## Videos
+
+- [Scaling hotstar.com for 25 million concurrent viewers](https://www.youtube.com/watch?v=QjvyiyH4rr0)
 
 ## Contribute
 
