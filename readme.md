@@ -54,6 +54,8 @@ Awesome books on Performance Testing
 - [Apache JMeter](https://jmeter.apache.org)
 - [Gatling](https://gatling.io/)
 - [Microfocus LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
+- [Locust](https://locust.io/)
+- [Artillery](https://artillery.io/)
 
 ## Videos
 
