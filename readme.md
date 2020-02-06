@@ -46,6 +46,7 @@ Awesome books on Performance Testing
 ## Others
 
 - [MoS 30 Days of Performance Testing](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-performance-testing)
+- [A Quick Start Guide To Learning Performance Testing](https://www.ministryoftesting.com/dojo/lessons/a-quick-start-guide-to-learning-performance-testing)
 - [Get performance requirements right - think like a user](http://www.perftestplus.com/resources/requirements_with_compuware.pdf)
 - [Load & Performance Testing the Cloud??!! - AWS](http://aws-de-media.s3.amazonaws.com/images/AWS_Summit_Berlin_2016/sessions/green_means_go_1350_load_and_performance_testing_the_cloud.pdf)
 
